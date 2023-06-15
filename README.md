@@ -18,5 +18,6 @@ Estou em transição de carreira. atualmente cursando full stack com DevClub, ad
 <br>
 <b> Contato:<b>
 <br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin-tharik"/><a hrelf="www.linkedin.com/in/
-tharik-alves-moreira-7060a2271"><a>
+<a hrelf="www.linkedin.com/in/
+tharik-alves-moreira-7060a2271
+"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin-tharik"/><a/>
