@@ -14,8 +14,3 @@ E atualmente iniciando JavaScript.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharikmoreira)
 
 Estou em transição de carreira. atualmente cursando full stack com DevClub, adiquirindo experiências com alguns projetos da plataforma.
-<br>
-<br>
-<b> Contato:<b>
-<br>
-<a hrelf=" https://www.linkedin.com/in/tharik-alves-moreira-7060a2271 "> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin-tharik"/><a/>
