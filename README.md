@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**tharikmoreira/tharikmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Tharik A Moreira,tenho 31 anos, sou desenvovedor front end, atualmente desenvovendo projetos com:
+<br>
+<br>
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" atl="logo-CSS"/>
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-HTML"/>
+<br>
+E atualmente iniciando JavaScript.
+<br>
 
-Here are some ideas to get you started:
+[![Tharik stats](https://github-readme-stats.vercel.app/api?username=tharikmoreira)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharikmoreira)
+
+Estou em transição de carreira. atualmente cursando full stack com DevClub, adiquirindo experiências com alguns projetos da plataforma.
+<br>
+<br>
+<b> Contato:<b>
+<br>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/><a hrelf="https://www.linkedin.com/in/tharik-alves-moreira-7060a2271/"><a>
